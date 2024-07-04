@@ -29,10 +29,11 @@ O roadmap apresenta as fases de evolução da solução proposta, delineando os 
 
 ## Arquitetura de Negócio
 A arquitetura de negócio abrange a concepção do modelo de negócio utilizando as seguintes ferramentas:
-+ BM Canvas: Business Model Canvas para mapear e validar a proposta de valor e os segmentos de mercado.
-+ Canvas de Hipótese: Hipóteses de mercado e produto a serem validadas.
-+ Mapa de Empatia: Ferramenta para entender as necessidades e desejos dos usuários finais.
-+ Análise SWOT: Identificação de forças, fraquezas, oportunidades e ameaças relacionadas ao negócio.
++ <a href="03. Ferramentas/Business Model Canvas.PNG">BM Canvas</a>: Business Model Canvas para mapear e validar a proposta de valor e os segmentos de mercado.
++ <a href="03. Ferramentas/Canvas de Hipótese.PNG">Canvas de Hipótese</a>: Hipóteses de mercado e produto a serem validadas.
++ Mapa de Empatia (<a href="03. Ferramentas/Mapa de Empatia Consumidor.PNG">Consumidor</a> e <a href="03. Ferramentas/Mapa de Empatia Fornecedor.PNG">Fornecedor</a>): Ferramenta para entender as necessidades e desejos dos usuários finais.
++ <a href="03. Ferramentas/Análise SWOT.PNG">Análise SWOT</a>: Identificação de forças, fraquezas, oportunidades e ameaças relacionadas ao negócio.
++ <a href="03. Ferramentas/Product Backlog Building.PNG">Product Backlog Building</a>: A fim de definir e priorizar todas as funcionalidades necessárias para o desenvolvimento do produto.
 
 ## Relatório sobre o Projeto
 O relatório sobre o projeto compila todas as informações detalhadas sobre o desenvolvimento, implementação e avaliação da plataforma. Este documento serve como um guia completo para entender o progresso, os desafios superados e os resultados obtidos durante o ciclo de vida do projeto.
