@@ -5,7 +5,7 @@ Você, empreendedor de uma PME, já pensou em reduzir seus custos com energia en
 Nosso projeto de uma plataforma de marketplace de energia visa oferecer uma solução eficiente e transparente que conecta pequenas e médias empresas (PMEs) com fornecedores de energia. Facilitamos a busca, comparação e negociação de contratos de energia, promovendo economia, sustentabilidade, transparência nas negociações e otimização do consumo energético de seu negócio. Imagine um sistema onde consumidores podem escolher seu fornecedor de energia elétrica, promovendo um mercado mais competitivo e sustentável.
 
 ## Índice
-1) Protótipo de Alta Fidelidade
+1) Protótipo de Alta Fidelidade ¹
 2) Arquitetura Técnica
 3) Roadmap
 4) Arquitetura de Negócio
@@ -37,6 +37,8 @@ A arquitetura de negócio abrange a concepção do modelo de negócio utilizando
 
 ## Relatório sobre o Projeto
 O relatório sobre o projeto compila todas as informações detalhadas sobre o desenvolvimento, implementação e avaliação da plataforma. Este documento serve como um guia completo para entender o progresso, os desafios superados e os resultados obtidos durante o ciclo de vida do projeto.
+
+¹ https://www.figma.com/proto/HbGGvc2BRvXriZso50ZD70/Squad-1---Storyboard?node-id=163-24&t=iGg2XoUFXOsWEMvx-0&scaling=contain&content-scaling=fixed&page-id=0:1&starting-point-node-id=163:24
 
 #### Projeto desenvolvido na RT-SI 2024.1 INF/UFG. Por:
 <ul style="list-style-type: circle;">
