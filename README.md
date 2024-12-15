@@ -13,7 +13,7 @@ Nosso projeto de uma plataforma de marketplace de energia visa oferecer uma solu
 
 ## Protótipo de Alta Fidelidade
 Nesta seção, disponibilizamos o protótipo de alta fidelidade da nossa plataforma de marketplace de energia. Oferecendo uma visão clara e detalhada das funcionalidades e da interface de usuário que serão implementadas na solução final.
-
+<a href="https://www.figma.com/proto/HbGGvc2BRvXriZso50ZD70/Squad-1---Storyboard?node-id=163-24&starting-point-node-id=163%3A24&t=rB0xYj2l3xdwRCAN-1">Link do Protótipo</a>
 ## Arquitetura Técnica
 A arquitetura técnica detalha os aspectos funcionais e não-funcionais da plataforma, incluindo:
 Negócio: Requisitos e processos de negócio atendidos pela plataforma.
@@ -29,11 +29,11 @@ O roadmap apresenta as fases de evolução da solução proposta, delineando os 
 
 ## Arquitetura de Negócio
 A arquitetura de negócio abrange a concepção do modelo de negócio utilizando as seguintes ferramentas:
-+ <a href="03. Ferramentas/Business Model Canvas.PNG">BM Canvas</a>: Business Model Canvas para mapear e validar a proposta de valor e os segmentos de mercado.
-+ <a href="03. Ferramentas/Canvas de Hipótese.PNG">Canvas de Hipótese</a>: Hipóteses de mercado e produto a serem validadas.
-+ Mapa de Empatia (<a href="03. Ferramentas/Mapa de Empatia Consumidor.PNG">Consumidor</a> e <a href="03. Ferramentas/Mapa de Empatia Fornecedor.PNG">Fornecedor</a>): Ferramenta para entender as necessidades e desejos dos usuários finais.
-+ <a href="03. Ferramentas/Análise SWOT.PNG">Análise SWOT</a>: Identificação de forças, fraquezas, oportunidades e ameaças relacionadas ao negócio.
-+ <a href="03. Ferramentas/Product Backlog Building.PNG">Product Backlog Building</a>: A fim de definir e priorizar todas as funcionalidades necessárias para o desenvolvimento do produto.
++ <a href="Ferramentas/Business Model Canvas.PNG">BM Canvas</a>: Business Model Canvas para mapear e validar a proposta de valor e os segmentos de mercado.
++ <a href="Ferramentas/Canvas de Hipótese.PNG">Canvas de Hipótese</a>: Hipóteses de mercado e produto a serem validadas.
++ Mapa de Empatia (<a href="Ferramentas/Mapa de Empatia Consumidor.PNG">Consumidor</a> e <a href="Ferramentas/Mapa de Empatia Fornecedor.PNG">Fornecedor</a>): Ferramenta para entender as necessidades e desejos dos usuários finais.
++ <a href="Ferramentas/Análise SWOT.PNG">Análise SWOT</a>: Identificação de forças, fraquezas, oportunidades e ameaças relacionadas ao negócio.
++ <a href="Ferramentas/Product Backlog Building.PNG">Product Backlog Building</a>: A fim de definir e priorizar todas as funcionalidades necessárias para o desenvolvimento do produto.
 
 ## Relatório sobre o Projeto
 O relatório sobre o projeto compila todas as informações detalhadas sobre o desenvolvimento, implementação e avaliação da plataforma. Este documento serve como um guia completo para entender o progresso, os desafios superados e os resultados obtidos durante o ciclo de vida do projeto.
